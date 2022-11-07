@@ -1,0 +1,9 @@
+#!/bin/sh
+#
+# Perform necessary just-ruby removal steps
+# after package is uninstalled.
+#
+
+echo "just-ruby has been uninstalled!"
+
+exit 0
